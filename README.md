@@ -8,7 +8,7 @@
  and posting everything on [![YouTube](https://img.shields.io/badge/YouTube-SUBSCRIBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SamuelCavalcantiCosta?sub_confirmation=1)
 , already being publicly considered as an author, writer, producer, programmer, YouTuber, influencer and celebrity. <br>
 🧿 You can support my work with [GIFTS](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv) and [DONATE](https://link.mercadopago.com.br/samuelccosta1991). Thank you!
+🧿 Trying to become an expert in MQL5, a programming language focused on the METATRADER 5 platform, I already have some projects underway, such as the "Golden Days" EA. You can also check out my profile on the [![MQL5](https://img.shields.io/badge/MQL5-Expert%20Advisor-blue?style=for-the-badge)](https://www.mql5.com/en/users/samuelcavalcanticosta)
+ website.
 
-
-[![MQL5](https://img.shields.io/badge/MQL5-Expert%20Advisor-blue?style=for-the-badge)](https://www.mql5.com/en/users/samuelcavalcanticosta)
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/scc10021991)
