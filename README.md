@@ -1,7 +1,7 @@
 ## Hello humans! 👋🧿 I come in peace! 
 
 # ABOUT
-🧿Graduated in Systems Analysis and Development, postgraduate in Information Security and IT Governance, currently studying for a bachelor's degree in administration and working in the call center sector. [LINKDIN](https://www.linkedin.com/in/samuelcavalcanticosta/) <br>
+🧿Graduated in Systems Analysis and Development, postgraduate in Information Security and IT Governance, currently studying for a bachelor's degree in administration and working in the call center sector. [LINKEDIN](https://www.linkedin.com/in/samuelcavalcanticosta/) <br>
 
 # MY DIGITAL HERITAGE
 🧿Subscribe in my Youtube Channel [LINK](https://www.youtube.com/@SamuelCavalcantiCosta/videos?sub_confirmation=1) <BR>
