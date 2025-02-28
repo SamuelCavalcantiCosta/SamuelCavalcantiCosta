@@ -1,6 +1,6 @@
 # Hello humans! 👋🧿 I come in peace! 
 
-## ABOUT
+# ABOUT
 🧿 Graduated in Systems Analysis and Development, postgraduate in Information Security and IT Governance, currently studying for a bachelor's degree in administration and working in the call center sector. [LinkedIn](https://www.linkedin.com/in/samuelcavalcanticosta/)<br>
 🧿 Developing several online entrepreneurship projects, such as infoproducts (courses, ebooks and software) and physical books (through Amazon) through platforms such as [Amazon](https://www.amazon.com/stores/Samuel-Cavalcanti-Costa/author/B0DQ8SPJVW?language=pt&ref=sr_ntt_srch_lnk_1&qid=1740783935&sr=8-1&isDramIntegrated=true&shoppingPortalEnabled=true)
  and [Hotmart](https://hotmart.com/en/marketplace/products?q=SAMUEL%20CAVALCANTI%20COSTA)
