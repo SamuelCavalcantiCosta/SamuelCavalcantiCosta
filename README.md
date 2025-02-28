@@ -11,7 +11,9 @@
  website.
 
 # CHECK OUT MY WORK
+[![YouTube](https://img.shields.io/badge/YouTube-SUBSCRIBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SamuelCavalcantiCosta?sub_confirmation=1)
 [![Amazon](https://img.shields.io/badge/Amazon-Shop-orange?style=for-the-badge&logo=amazon)](https://www.amazon.com/stores/Samuel-Cavalcanti-Costa/author/B0DQ8SPJVW?language=pt&ref=sr_ntt_srch_lnk_1&qid=1740783935&sr=8-1&isDramIntegrated=true&shoppingPortalEnabled=true)
+[![Hotmart](https://img.shields.io/badge/Hotmart-Explore%20Courses-blue?style=for-the-badge)](https://hotmart.com/en/marketplace/products?q=SAMUEL%20CAVALCANTI%20COSTA)
 
 # SUPPORT MY WORK
 [![Mercado Livre](https://img.shields.io/badge/Mercado%20Livre-Send%20Me%20Gifts-yellow?style=for-the-badge&logo=shopping-cart)](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv)
