@@ -27,3 +27,9 @@
 
 #### 🛠️ Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCavalcantiCosta&layout=compact&theme=dark)
+
+### 🛠️ Skills
+
+![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat-square&logo=javascript)
