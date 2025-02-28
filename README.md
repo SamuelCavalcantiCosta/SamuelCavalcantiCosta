@@ -30,6 +30,6 @@
 
 ### 🛠️ Skills
 
-![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white&labelColor=orange&color=orange)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white&labelColor=blue&color=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black&labelColor=yellow&color=yellow)
