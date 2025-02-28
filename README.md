@@ -42,3 +42,24 @@
 # SUPPORT MY WORK
 🧿Send me a gift [LINK MERCADO LIVRE](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv) <br>
 🧿Donate [LINK MERCADO PAGO](https://link.mercadopago.com.br/samuelccosta1991)
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=SamuelCavalcantiCosta&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCavalcantiCosta&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
