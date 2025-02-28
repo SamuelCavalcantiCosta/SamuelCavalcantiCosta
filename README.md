@@ -37,3 +37,4 @@
 </p>
 
 
+[![YouTube](https://img.shields.io/badge/YouTube-SUBSCRIBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SamuelCavalcantiCosta?sub_confirmation=1)
