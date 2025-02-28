@@ -36,5 +36,4 @@
     </a>
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/SamuelCavalcantiCosta?style=social)
-![GitHub stars](https://img.shields.io/github/stars/SamuelCavalcantiCosta?style=social)
+
