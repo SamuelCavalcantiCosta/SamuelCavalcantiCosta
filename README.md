@@ -32,7 +32,3 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-75%25-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![MQL5](https://img.shields.io/badge/MQL5-70%25-blue?style=flat-square)](https://www.mql5.com/)
-
-### 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCavalcantiCosta&layout=compact&theme=dark)
