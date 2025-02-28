@@ -15,6 +15,7 @@
 [![Amazon](https://img.shields.io/badge/Amazon-Shop-orange?style=for-the-badge&logo=amazon)](https://www.amazon.com/stores/Samuel-Cavalcanti-Costa/author/B0DQ8SPJVW?language=pt&ref=sr_ntt_srch_lnk_1&qid=1740783935&sr=8-1&isDramIntegrated=true&shoppingPortalEnabled=true)
 [![Hotmart](https://img.shields.io/badge/Hotmart-Explore%20Courses-blue?style=for-the-badge)](https://hotmart.com/en/marketplace/products?q=SAMUEL%20CAVALCANTI%20COSTA)
 [![MQL5](https://img.shields.io/badge/MQL5-Expert%20Advisor-blue?style=for-the-badge)](https://www.mql5.com/en/users/samuelcavalcanticosta)
+[![WordPress](https://img.shields.io/badge/WordPress-Visit%20My%20Blog-blue?style=for-the-badge&logo=wordpress)](https://samuelcavalcanticosta.wordpress.com/)
 
 # SUPPORT MY WORK
 [![Mercado Livre](https://img.shields.io/badge/Mercado%20Livre-Send%20Me%20Gifts-yellow?style=for-the-badge&logo=shopping-cart)](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv)
