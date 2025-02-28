@@ -25,10 +25,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuelcavalcanticosta/)
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/scc10021991)
 
-### 🛠️ Technologies & Skills
-
-[![HTML](https://img.shields.io/badge/HTML-90%25-orange?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://img.shields.io/badge/Python-75%25-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![MQL5](https://img.shields.io/badge/MQL5-70%25-blue?style=flat-square)](https://www.mql5.com/)
+### 🛠️ Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCavalcantiCosta&layout=compact&theme=dark)
