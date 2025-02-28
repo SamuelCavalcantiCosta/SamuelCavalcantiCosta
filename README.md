@@ -36,4 +36,3 @@
     </a>
 </p>
 
-![MQL5](https://www.mql5.com/en/users/samuelcavalcanticosta)
