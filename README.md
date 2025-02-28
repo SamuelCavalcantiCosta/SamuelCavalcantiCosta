@@ -27,3 +27,17 @@
 
 #### 🛠️ Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelCavalcantiCosta&layout=compact&theme=dark)
+
+### 🛠️ Skills
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+  <div style="background: #f1f1f1; border-radius: 5px; padding: 5px;">
+    <div style="background: #4CAF50; width: 90%; border-radius: 5px; text-align: center; color: white;">HTML - 90%</div>
+  </div>
+  <div style="background: #f1f1f1; border-radius: 5px; padding: 5px;">
+    <div style="background: #2196F3; width: 85%; border-radius: 5px; text-align: center; color: white;">CSS - 85%</div>
+  </div>
+  <div style="background: #f1f1f1; border-radius: 5px; padding: 5px;">
+    <div style="background: #FFC107; width: 80%; border-radius: 5px; text-align: center; color: black;">JavaScript - 80%</div>
+  </div>
+</div>
