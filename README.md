@@ -8,6 +8,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-SUBSCRIBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SamuelCavalcantiCosta?sub_confirmation=1)
 [![Amazon](https://img.shields.io/badge/Amazon-Shop-orange?style=for-the-badge&logo=amazon)](https://www.amazon.com/stores/Samuel-Cavalcanti-Costa/author/B0DQ8SPJVW?language=pt&ref=sr_ntt_srch_lnk_1&qid=1740783935&sr=8-1&isDramIntegrated=true&shoppingPortalEnabled=true)
+[![Hotmart](https://img.shields.io/badge/Hotmart-Explore%20Courses-blue?style=for-the-badge)](https://hotmart.com/en/marketplace/products?q=SAMUEL%20CAVALCANTI%20COSTA)
 [![MQL5](https://img.shields.io/badge/MQL5-Expert%20Advisor-blue?style=for-the-badge)](https://www.mql5.com/en/users/samuelcavalcanticosta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuelcavalcanticosta/)
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/scc10021991)
