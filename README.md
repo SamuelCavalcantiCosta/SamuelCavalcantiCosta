@@ -9,5 +9,5 @@
 🧿Read my books at Amazon [LINK](https://www.amazon.com/stores/Samuel-Cavalcanti-Costa/author/B0DQ8SPJVW?ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true) <br>
 
 # SUPPORT MY WORK
-🧿Send me a gift [LINK](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv) <br>
-🧿Donate [LINK](https://link.mercadopago.com.br/samuelccosta1991)
+🧿Send me a gift [LINK MERCADO LIVRE](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv) <br>
+🧿Donate [LINK MERCADO PAGO](https://link.mercadopago.com.br/samuelccosta1991)
