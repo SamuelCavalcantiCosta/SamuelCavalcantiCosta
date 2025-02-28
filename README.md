@@ -7,4 +7,4 @@
 
 # SUPPORT MY WORK
 🧿Send me a gift [LINK](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv) <br>
-🧿Donate [LINK](link.mercadopago.com.br/samuelccosta1991)
+🧿Donate [LINK](https://link.mercadopago.com.br/samuelccosta1991)
