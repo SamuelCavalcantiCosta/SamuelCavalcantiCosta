@@ -35,8 +35,3 @@
         />
     </a>
 </p>
-
-
-# SUPPORT MY WORK
-🧿Send me a gift  <br>
-🧿Donate 
