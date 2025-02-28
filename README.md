@@ -1,7 +1,8 @@
 ## Hello humans! 👋🧿 I come in peace! 
 
 # ABOUT
-🧿Graduated in Systems Analysis and Development, postgraduate in Information Security and IT Governance, currently studying for a bachelor's degree in administration and working in the call center sector. [LINKEDIN](https://www.linkedin.com/in/samuelcavalcanticosta/) <br>
+🧿 Graduated in Systems Analysis and Development, postgraduate in Information Security and IT Governance, currently studying for a bachelor's degree in administration and working in the call center sector. [LINKEDIN](https://www.linkedin.com/in/samuelcavalcanticosta/) <br>
+🧿 Developing several online entrepreneurship projects, such as infoproducts (courses, ebooks and software) and physical books (through Amazon) through platforms such as Amazon and Hotmart and posting everything on YouTube, already being publicly considered as an author, writer, producer, programmer, YouTuber, influencer and celebrity. <br>
 
 <p align="left">
     <a href="https://www.youtube.com/@SamuelCavalcantiCosta?sub_confirmation=1">
