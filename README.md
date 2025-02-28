@@ -11,5 +11,5 @@
 🧿 Trying to become an expert in MQL5, a programming language focused on the METATRADER 5 platform, I already have some projects underway, such as the "Golden Days" EA. You can also check out my profile on the [![MQL5](https://img.shields.io/badge/MQL5-Expert%20Advisor-blue?style=for-the-badge)](https://www.mql5.com/en/users/samuelcavalcanticosta)
  website.
 
-#SOCIALNETWORK
+#SOCIALNETWORK <br>
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/scc10021991)
