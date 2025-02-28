@@ -19,6 +19,7 @@
 
 # SUPPORT MY WORK
 [![Mercado Livre](https://img.shields.io/badge/Mercado%20Livre-Send%20Me%20Gifts-yellow?style=for-the-badge&logo=shopping-cart)](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv)
+[![Donate](https://img.shields.io/badge/DONATE-Support%20Me-green?style=for-the-badge&logo=paypal)](https://link.mercadopago.com.br/samuelccosta1991)
 
 # SOCIALNETWORK <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuelcavalcanticosta/)
