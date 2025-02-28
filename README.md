@@ -36,4 +36,4 @@
     </a>
 </p>
 
-![MQL5](https://img.shields.io/badge/MQL5-Expert%20Advisor-blue?style=for-the-badge)
+![MQL5]([https://img.shields.io/badge/MQL5-Expert%20Advisor-blue?style=for-the-badge](https://www.mql5.com/en/users/samuelcavalcanticosta))
