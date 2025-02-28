@@ -7,6 +7,5 @@
 
 
 [![YouTube](https://img.shields.io/badge/YouTube-SUBSCRIBE-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SamuelCavalcantiCosta?sub_confirmation=1)
-![MQL5](https://img.shields.io/badge/MQL5-Expert%20Advisor-blue?style=for-the-badge) ] (https://www.mql5.com/en/users/samuelcavalcanticosta)
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)
+![MQL5](https://img.shields.io/badge/MQL5-Expert%20Advisor-blue?style=for-the-badge)](https://www.mql5.com/en/users/samuelcavalcanticosta)
+
