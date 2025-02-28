@@ -12,7 +12,7 @@
  website.
 
 # SUPPORT MY WORK
-[![Mercado Livre](https://img.shields.io/badge/Mercado%20Livre-My%20Product-yellow?style=for-the-badge&logo=shopping-cart)](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv)
+[![Mercado Livre](https://img.shields.io/badge/Mercado%20Livre-Send%20Me%20Gifts-yellow?style=for-the-badge&logo=shopping-cart)](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv)
 
 # SOCIALNETWORK <br>
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/scc10021991)
