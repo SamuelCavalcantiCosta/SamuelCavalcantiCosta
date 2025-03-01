@@ -24,3 +24,5 @@
 ### 🧿 SOCIALNETWORK <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuelcavalcanticosta/)
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/scc10021991)
+
+![Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile!)
