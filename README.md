@@ -17,13 +17,13 @@
 [![MQL5](https://img.shields.io/badge/MQL5-Expert%20Advisor-blue?style=for-the-badge)](https://www.mql5.com/en/users/samuelcavalcanticosta)
 [![WordPress](https://img.shields.io/badge/WordPress-Visit%20My%20Blog-blue?style=for-the-badge&logo=wordpress)](https://samuelcavalcanticosta.wordpress.com/)
 
-## SUPPORT MY WORK
+## 🧿 SUPPORT MY WORK
 [![Mercado Livre](https://img.shields.io/badge/Mercado%20Livre-Send%20Me%20Gifts-yellow?style=for-the-badge&logo=shopping-cart)](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv)
 [![Donate](https://img.shields.io/badge/DONATE-Support%20Me-green?style=for-the-badge&logo=paypal)](https://link.mercadopago.com.br/samuelccosta1991)
 
-### SOCIALNETWORK <br>
+### 🧿 SOCIALNETWORK <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuelcavalcanticosta/)
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/scc10021991)
 
-### 📊 GitHub Stats
+### 🧿 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamuelCavalcantiCosta&show_icons=true&theme=dark)
