@@ -24,3 +24,4 @@
 ### 🧿 SOCIALNETWORK <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samuelcavalcanticosta/)
 [![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/scc10021991)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/supersamuel1991/)
