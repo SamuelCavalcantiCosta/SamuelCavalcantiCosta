@@ -13,7 +13,3 @@
 # CHECK OUT MY WORK
 [![SocialBlade](https://img.shields.io/badge/SocialBlade-Check%20My%20Stats-blue?style=for-the-badge)](https://socialblade.com/youtube/channel/UCj4rpoOIZBalHZxqIjqb0Jg)
 [![WordPress](https://img.shields.io/badge/WordPress-Visit%20My%20Blog-blue?style=for-the-badge&logo=wordpress)](https://samuelcavalcanticosta.wordpress.com/)
-
-## 🧿 SUPPORT MY WORK
-[![Mercado Livre](https://img.shields.io/badge/Mercado%20Livre-Send%20Me%20Gifts-yellow?style=for-the-badge&logo=shopping-cart)](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv)
-[![Donate](https://img.shields.io/badge/DONATE-Support%20Me-green?style=for-the-badge&logo=paypal)](https://link.mercadopago.com.br/samuelccosta1991)
