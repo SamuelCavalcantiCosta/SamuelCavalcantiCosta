@@ -6,6 +6,6 @@
  and [Hotmart](https://hotmart.com/en/marketplace/products?q=SAMUEL%20CAVALCANTI%20COSTA)
  and posting everything on [YouTube](https://www.youtube.com/@SamuelCavalcantiCosta?sub_confirmation=1)
 , already being publicly considered as an author, writer, producer, programmer, YouTuber, influencer and celebrity. You also can check my [SocialBlade](https://socialblade.com/youtube/channel/UCj4rpoOIZBalHZxqIjqb0Jg) and my [WordPress](https://samuelcavalcanticosta.wordpress.com/)<br>
-🧿 You can support my work with [GIFTS](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv) and [DONATE](https://link.mercadopago.com.br/samuelccosta1991). Thank you!<br>
+## 🧿 You can support my work with [GIFTS](https://www.mercadolivre.com.br/presentes/presentei-me-8u5sv) and [DONATE](https://link.mercadopago.com.br/samuelccosta1991). Thank you!<br>
 🧿 Trying to become an expert in MQL5, a programming language focused on the METATRADER 5 platform, I already have some projects underway, such as the "Golden Days" EA. You can also check out my profile on the [MQL5](https://www.mql5.com/en/users/samuelcavalcanticosta)
  website.
