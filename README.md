@@ -4,6 +4,6 @@
 <br>
 
 # PUBLIC PROJECTS!
-🧿 HNAP = [1](https://github.com/SamuelCavalcantiCosta/Not-Here---Anti-Pentest-1.0) <br>
+🧿 HNAP = [1](https://github.com/SamuelCavalcantiCosta/Not-Here---Anti-Pentest-1.0) / [2](https://github.com/SamuelCavalcantiCosta/HERE-NOT-ANTI-PENTEST-2.0) <br>
 🧿 AIBus-OS = <br>
 🧿 HEART'N'EYES = <br>
